@@ -1,10 +1,6 @@
 {
   "version": 2,
-  "env": {
-    "NODE_ENV": "@node_env",
-    "DB_URL": "@db_url",
-    "JWT_SECRET": "@jwt_secret"
-  },
+
   "builds": [
     {
       "src": "src/main.ts",
